@@ -10,13 +10,13 @@ export default function Home() {
           hey, i'm eddy xu
         </h1>
         <p className="text-base mb-6 text-gray-900 font-normal">
-          i build things to help people. my singular goal is to have a net-positive impact on the world.
+          i build things for people. my singular goal is to have a net-positive impact on the world.
         </p>
 
         {/* Current */}
         <h3 className="text-xl font-semibold mb-2 text-black">what i'm up to:</h3>
         <p className="mb-6 text-gray-900 font-normal">
-          incoming cs @ columbia. spending my senior year getting technical to justify taking a gap year
+          incoming cs@columbia. spending senior year getting technical to justify taking a gap
         </p>
 
         {/* Previous */}
@@ -69,7 +69,7 @@ export default function Home() {
             </a>
           </div>
         </div>
-        <p className="text-gray-900 font-normal">lets hypergamble into greatness together before agi makes us the permanent underclass!</p>
+        <p className="text-gray-900 font-normal">lets hypergamble into greatness before agi makes us the permanent underclass :)</p>
       </main>
     </div>
   );
